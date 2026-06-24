@@ -1,6 +1,6 @@
 ## Olá e seja bem-vindo ao meu perfil no GitHub!
 
-Não sou muito ativo por aqui, mas mantenho este espaço para pequenos projetos ocasionais e também para hospedar a minha [página pessoal](https://joaom101.github.io).
+Não sou muito ativo por aqui, mas mantenho este espaço para pequenos projetos ocasionais e também para hospedar a minha [página pessoal](https://joaomartinho.net.br).
 
 Este perfil não é um portfólio; todos os repositórios contém projetos pessoais ou acadêmicos. O mais significativo é, com certeza, o [Orbe](https://github.com/joaom101/orbe), que eu escrevi como o meu trabalho de conclusão de curso da faculdade.
 
