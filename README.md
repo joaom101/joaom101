@@ -7,5 +7,5 @@ Este perfil não é um portfólio; todos os repositórios contém projetos pesso
 ### Contato
 
 - Nome: João Martinho
-- Email:  [joaom101@yahoo.com](mailto:joaom101@yahoo.com)
+- Email:  [joao@joaomartinho.net.br](mailto:joao@joaomartinho.net.br)
 - Chave PGP: `A319 C097 6B75 05B9 B20A 6330 E922 9B47 6C7C 66B1`
